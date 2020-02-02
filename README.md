@@ -1,3 +1,3 @@
 # Reduced Row Echelon Form
 
-Tranform any matrix to its reduced row echelon form
+An algorithm that tranforms any matrix to its reduced row echelon form through Gaussian elimination.  
